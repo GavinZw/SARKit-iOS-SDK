@@ -1,0 +1,6 @@
+framework module SARKit {
+  umbrella header "SARKit.h"
+
+  export *
+  module * { export * }
+}
